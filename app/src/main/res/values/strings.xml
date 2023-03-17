@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Todo Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login_title_text"> Welcome </string>
+    <string name="login_description_text"> Basic Todo Application demo with the basic CRUD function using Room database. \n
+    Including Firebase authentication and Firestore database integration. </string>
+    <string name="login_button_text">Signin with Google</string>
+    <string name="description"> Description </string>
+    <string name="enter_task_name"> Enter Task Name</string>
+    <string name="delete_done_task"> Delete Checked Task </string>
+    <string name="sign_out"> Signout </string>
+    <string name="task_name">Task Name</string>
+    <string name="textview">TextView</string>
+    <string name="enter_task_description">Enter Task Description</string>
+    <string name="delete">Delete</string>
+    <string name="saved_task">Saved task</string>
+
+</resources>
